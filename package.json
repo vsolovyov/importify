@@ -1,0 +1,17 @@
+{
+  "name": "importify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browserify-transform"
+  ],
+  "author": "Vsevolod Solovyov",
+  "license": "ISC",
+  "dependencies": {
+    "browserify-transform-tools": "^1.2.1"
+  }
+}
